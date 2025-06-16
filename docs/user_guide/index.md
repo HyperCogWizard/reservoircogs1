@@ -12,10 +12,15 @@ ReservoirCogs is a flexible and powerful library for reservoir computing with de
 4. [Learning Rules](learning_rules.md) - Training and adaptation algorithms
 5. [Hyperparameter Optimization](hyper.md) - Automated parameter tuning
 6. [AtomSpace Integration](atomspace_integration.md) - Using symbolic AI features
-7. [ReservoirChat Playground](playground.md) - Interactive exploration platform
-8. [Advanced Examples](advanced_demo.md) - Complex use cases and patterns
-9. [Creating Custom Nodes](create_new_node.md) - Extending the framework
-10. [Compatibility](compat.md) - Working with legacy ReservoirPy code
+7. [Relevance Realization](relevance_realization.md) - Cognitive-scientific framework for adaptive computing
+8. [Formal Grammar RR - P-Systems](formal_grammar_rr_psystems.md) - Grammar-guided membrane computing
+9. [Membrane Computing - Trialectic Architecture](membrane_computing_trialectic.md) - Dialectical computational processes
+10. [RR-Math](rr_math.md) - Mathematical foundations of Relevance Realization
+11. [Triadic Architecture](triadic_architecture_unraveled.md) - Deep dive into triadic cognitive computing
+12. [ReservoirChat Playground](playground.md) - Interactive exploration platform
+13. [Advanced Examples](advanced_demo.md) - Complex use cases and patterns
+14. [Creating Custom Nodes](create_new_node.md) - Extending the framework
+15. [Compatibility](compat.md) - Working with legacy ReservoirPy code
 
 ## Python API Overview
 
